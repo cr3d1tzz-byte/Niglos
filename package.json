@@ -1,0 +1,13 @@
+{
+  "name": "snapenhance-rgb-text",
+  "version": "1.0.0",
+  "description": "Makes Snapchat Web chat text RGB with pixel effect",
+  "main": "snapenhance-rgb-text.user.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YOUR_USERNAME/snapenhance-rgb-text.git"
+  },
+  "keywords": ["snapchat", "userscript", "rgb", "snapenhance"],
+  "author": "YOUR_USERNAME",
+  "license": "MIT"
+}
